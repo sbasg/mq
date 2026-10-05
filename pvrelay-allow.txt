@@ -1,4 +1,3 @@
-[Adblock Plus]
 ! Title: Apple Private Relay Allowlist
 ! Description: Unblocks Apple Private Relay / iCloud Private Relay (mask, relay, DoH apple) - source: HaGeZi apple-private-relay-allow-folder.json
 ! Homepage: https://github.com/hagezi/dns-blocklists
